@@ -1,0 +1,1 @@
+This repository is another test of Git's basic functions
